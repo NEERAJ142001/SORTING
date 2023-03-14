@@ -26,7 +26,7 @@ public class lb_17_bubble_sorting {
                     swap=true;
                 }
             }
-            if(swap=false)
+            if(swap==false)
                 break;
         }
     }
